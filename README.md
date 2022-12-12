@@ -58,4 +58,3 @@ T-Test Manufacturing Lot #3:
 - What data is needed to run the statistical test?
   - MechaCar & competitor statistics
   - The contiuous variable needed for the ANOVA test would be mpg since it is continuous.
-  - 
